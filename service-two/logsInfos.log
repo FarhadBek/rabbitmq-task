@@ -1,0 +1,25 @@
+{
+  message: 'Awaiting RPC requests',
+  level: 'info',
+  timestamp: '2023-08-09T08:39:05.432Z'
+}
+{
+  message: 'Awaiting RPC requests',
+  level: 'info',
+  timestamp: '2023-08-09T08:40:19.660Z'
+}
+{
+  message: 'Awaiting RPC requests',
+  level: 'info',
+  timestamp: '2023-08-09T08:48:55.620Z'
+}
+{
+  message: 'Awaiting RPC requests',
+  level: 'info',
+  timestamp: '2023-08-09T09:17:12.187Z'
+}
+{
+  message: 'Awaiting RPC requests',
+  level: 'info',
+  timestamp: '2023-08-09T09:18:12.247Z'
+}
